@@ -1,2 +1,2 @@
 #comment
-throw (throw $_)
+return $true
